@@ -47,8 +47,7 @@ To utilize this tool, please follow the steps outlined below:
    - Create a new map and import the `.kml` file you saved earlier.
    - Google My Maps will process the `.kml` file and display the network traffic routes on the map, providing a visual representation of the network traffic captured by Wireshark.
    - See the output for better understanding:
-
-                                                ![Network Map Screenshot](Network-Map-Screenshot.png)
+     ![Network Map Screenshot](Network-Map-Screenshot.png)
 
 
 By following these steps, you should be able to visually track and analyze your network traffic using the capabilities of Google Maps.
