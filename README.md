@@ -32,6 +32,7 @@ To utilize this tool, please follow the steps outlined below:
 3. **Configure the Script:**
    - Open the `main.py` file in a text editor.
    - Locate the line where the `.pcap` file is specified and change the filename to match the name of your saved `.pcap` file.
+   - Replace 'x.x.x.x' with your actual public IP address. This step is crucial for the script to accurately translate the network addresses to geographical locations.
 
 4. **Run the Script:**
    - Execute the main.py file:
